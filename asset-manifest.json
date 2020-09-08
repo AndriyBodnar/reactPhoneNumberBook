@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactPhoneNumberBook/static/css/main.43f5d6b5.chunk.css",
+    "main.js": "/reactPhoneNumberBook/static/js/main.93ef7f78.chunk.js",
+    "main.js.map": "/reactPhoneNumberBook/static/js/main.93ef7f78.chunk.js.map",
+    "runtime-main.js": "/reactPhoneNumberBook/static/js/runtime-main.715ee035.js",
+    "runtime-main.js.map": "/reactPhoneNumberBook/static/js/runtime-main.715ee035.js.map",
+    "static/js/2.61705e32.chunk.js": "/reactPhoneNumberBook/static/js/2.61705e32.chunk.js",
+    "static/js/2.61705e32.chunk.js.map": "/reactPhoneNumberBook/static/js/2.61705e32.chunk.js.map",
+    "index.html": "/reactPhoneNumberBook/index.html",
+    "precache-manifest.f93154f0a6b7a85b45df19988edcab84.js": "/reactPhoneNumberBook/precache-manifest.f93154f0a6b7a85b45df19988edcab84.js",
+    "service-worker.js": "/reactPhoneNumberBook/service-worker.js",
+    "static/css/main.43f5d6b5.chunk.css.map": "/reactPhoneNumberBook/static/css/main.43f5d6b5.chunk.css.map",
+    "static/js/2.61705e32.chunk.js.LICENSE.txt": "/reactPhoneNumberBook/static/js/2.61705e32.chunk.js.LICENSE.txt",
+    "static/media/anon.svg": "/reactPhoneNumberBook/static/media/anon.c981df53.svg",
+    "static/media/female.svg": "/reactPhoneNumberBook/static/media/female.c3ee4a7e.svg",
+    "static/media/male.svg": "/reactPhoneNumberBook/static/media/male.2889fe11.svg",
+    "static/media/style.css": "/reactPhoneNumberBook/static/media/search.422b2b58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.715ee035.js",
+    "static/js/2.61705e32.chunk.js",
+    "static/css/main.43f5d6b5.chunk.css",
+    "static/js/main.93ef7f78.chunk.js"
+  ]
+}
